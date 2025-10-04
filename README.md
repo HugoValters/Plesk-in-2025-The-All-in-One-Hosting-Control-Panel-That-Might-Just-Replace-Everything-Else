@@ -7,7 +7,7 @@ Then, a friend casually said:
 I had heard of Plesk before, but I dismissed it as “just another hosting panel.”
 Spoiler: I was wrong. And switching to Plesk turned out to be one of the best decisions I’ve made for my hosting workflow.
 
-{% embed https://www.youtube.com/watch?v=6MGUQv1waO0 %}
+YouTube Video: https://www.youtube.com/watch?v=6MGUQv1waO0
 
 ## What Is Plesk?
 Plesk is a **web hosting** control panel that lets you manage your websites, domains, emails, and servers through an easy-to-use browser interface.
